@@ -1,4 +1,5 @@
-cmake_minimum_required(VERSION 2.8.5)
+cmake_minimum_required(VERSION 3.5...4.11)
+cmake_policy(VERSION 3.5)
 
 project(libsoundio LANGUAGES C CXX)
 
